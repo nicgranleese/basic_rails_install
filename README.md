@@ -18,5 +18,6 @@ Rails Version: 4.2.3
 | CSS variables file added    | Some basics like font and brand colour added          |
 | CSS for image sizes added   |                                                       |
 | Simple form gem installed   | Installed with bootstrap defaults                     |
+| Devise gem installed        | User Model setup, views created. !IMPORTANT You will still need to check / setup the config action mailer settings for both the dev and production environments |
 
 
