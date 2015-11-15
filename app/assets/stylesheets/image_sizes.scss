@@ -1,0 +1,49 @@
+//Sizes for images and icons
+
+img.tiny, svg.tiny {
+  width:15px;
+  height:15px;
+}
+
+img.small, svg.small {
+  width:28px;
+  height:28px;
+}
+
+img.small-plus, svg.small-plus {
+  width: 40px;
+  height: 40px;
+}
+
+img.med, svg.med {
+  width:60px;
+  height:60px;
+}
+
+img.med-plus, svg.med-plus {
+  width:90px;
+  height:90px;
+}
+
+img.large, svg.large{
+  width:150px;
+  height:150px;
+}
+
+//Large images
+
+img.small-image {
+  width:300px;
+}
+
+img.med-image {
+  width:600px;
+}
+
+img.large-image {
+  width:1200px;
+}
+
+img.full-width, svg.full-width {
+  width:100%;
+}
