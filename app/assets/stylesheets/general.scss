@@ -1,0 +1,18 @@
+@import 'variables';
+
+//font
+@import url(http://fonts.googleapis.com/css?family=Raleway:100,200,400,600,800);
+
+html {
+  font-family: raleway;
+}
+
+a {
+  color: $brand;
+  font-size: 16px;
+}
+
+p {
+  font-size: 150%;
+  font-weight: 100;
+}

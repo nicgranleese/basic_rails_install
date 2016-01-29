@@ -1,0 +1,16 @@
+@import 'variables';
+
+
+$link-color:            $brand !default;
+$link-hover-color:      darken($brand, 15%) !default;
+$link-hover-decoration: underline !default;
+
+$font-size-base:          16px !default;
+$text-color:              #747474 !default;
+
+$headings-color:          #555 !default;
+$headings-font-weight:    100 !default;
+
+$btn-primary-color:              #fff !default;
+$btn-primary-bg:                 $brand !default;
+$btn-primary-border:             darken($btn-primary-bg, 5%) !default;
